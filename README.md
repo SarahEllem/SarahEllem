@@ -4,6 +4,7 @@
 <div>
   <a href="https://github.com/SarahEllem">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SarahEllem&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahEllem&langs_count=8&theme=dracula&layout=compact"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Sarah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

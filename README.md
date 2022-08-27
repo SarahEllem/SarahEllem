@@ -3,7 +3,7 @@
 
 <div>
   <a href="https://github.com/SarahEllem">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahEllem&langs_count=8&theme=dracula&layout=compact"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahEllem&langs_count=8&theme=dracula&layout=compact"/>
 </div>
 
   ### Tenho conhecimento em

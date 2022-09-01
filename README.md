@@ -1,23 +1,17 @@
 ## Olá! Eu sou a Sarah Ellem.
 
-
-<div>
-  <a href="https://github.com/SarahEllem">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahEllem&langs_count=8&theme=dracula&layout=compact"/>
+<div>  
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SarahEllem&show_icons=true&count_private=true&hide_border=true&title_color=c479ff&icon_color=ff3cd4&text_color=c9d1d9&bg_color=0d1117" alt="Sarah Ellem github stats" /> 
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahEllem&layout=compact&hide_border=true&title_color=c479ff&text_color=F8C1F2&bg_color=0d1117" />
 </div>
 
-  ### Tenho conhecimento em
-<div style="display: inline_block">
-  <img align="center" alt="Sarah-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img align="center" alt="Sarah-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img align="center" alt="Sarah-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-</div> <br>
+  ### Tenho conhecimentos em:
+  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+  ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
   
-  ### Estou Aprendendo
-  <div>
-      <img align="center" alt="Sarah-CSharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-      <img align="center" alt="Sarah-Js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  </div> <br>
+  ### No momento estou estudando:
+  ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
 
   ##
  

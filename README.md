@@ -16,11 +16,12 @@
   ### No momento estou estudando:
   ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
 
-  ##
+  ### 
  
+ ## Conecte-se comigo!
   <div>
-   <a href="https://www.linkedin.com/in/sarah-ellem/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:sarah.ellemestudos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/sarah-ellem/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=2270be" target="_blank"></a> 
+  <a href = "mailto:sarah.ellemestudos@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=rrr" target="_blank"></a>
  </div>
   
 ![Snake animation](https://github.com/SarahEllem/SarahEllem/blob/output/github-contribution-grid-snake.svg)
